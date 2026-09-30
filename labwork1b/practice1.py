@@ -57,7 +57,7 @@ for course in courses:
         "| Name:", course["name"]
     )
 
-    print("\n========== LIST STUDENTS ==========")
+print("\n========== LIST STUDENTS ==========")
 
 for student in students:
     print(
